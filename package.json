@@ -1,0 +1,33 @@
+{
+  "name": "zip-form",
+  "version": "0.0.1",
+  "description": "A React-based library for handling web forms and fields",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SevenZark/zip-form.git"
+  },
+  "keywords": [
+    "React",
+    "form",
+    "forms",
+    "field",
+    "fields"
+  ],
+  "author": "David Munger",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/SevenZark/zip-form/issues"
+  },
+  "homepage": "https://github.com/SevenZark/zip-form#readme",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "typescript": "^4.4.4",
+    "webpack": "^5.58.2",
+    "webpack-cli": "^4.9.0"
+  }
+}
